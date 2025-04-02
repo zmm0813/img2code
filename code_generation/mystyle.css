@@ -1,0 +1,225 @@
+#div1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1280px;
+  height:61.0px;
+  background-color:rgb(np.uint8(221), np.uint8(239), np.uint8(249));
+  }#div2{
+              position:absolute;
+              left:1190px;
+              top:-1px;
+              width:82px;
+              height:32px;
+              background-color:rgb(np.uint8(221), np.uint8(239), np.uint8(249));
+              }#textarea3{
+            position:absolute;
+            left:0px;
+            top:0px;
+            width:82px;
+            height:32px;
+            background-color:rgb(np.uint8(242), np.uint8(242), np.uint8(242));
+            box-sizing: border-box;
+            font-size:7px;
+            }#div4 {
+  position:absolute;
+  left:0px;
+  top:61.0px;
+  width:1280px;
+  height:114.0px;
+  background-color:rgb(np.uint8(221), np.uint8(239), np.uint8(249));
+  }#div5{
+              position:absolute;
+              left:568px;
+              top:31.0px;
+              width:99px;
+              height:22px;
+              background-color:rgb(np.uint8(221), np.uint8(239), np.uint8(249));
+              }#span6{
+            position:absolute;
+            left:0px;
+            top:0px;
+            width:99px;
+            height:22px;
+            box-sizing: border-box;
+            font-size:18px;
+            }#div7{
+          position:absolute;
+          left:701px;
+          top:30.0px;
+          width:79px;
+          height:24px;
+          background-color:rgb(np.uint8(221), np.uint8(239), np.uint8(249));
+          }#span8{
+            position:absolute;
+            left:0px;
+            top:0px;
+            width:79px;
+            height:24px;
+            box-sizing: border-box;
+            font-size:18px;
+            }#div9{
+          position:absolute;
+          left:816px;
+          top:31.0px;
+          width:51px;
+          height:23px;
+          background-color:rgb(np.uint8(221), np.uint8(239), np.uint8(249));
+          }#span10{
+            position:absolute;
+            left:0px;
+            top:0px;
+            width:51px;
+            height:23px;
+            box-sizing: border-box;
+            font-size:19px;
+            }#div11{
+          position:absolute;
+          left:902px;
+          top:30.0px;
+          width:52px;
+          height:25px;
+          background-color:rgb(np.uint8(221), np.uint8(239), np.uint8(249));
+          }#span12{
+            position:absolute;
+            left:0px;
+            top:0px;
+            width:52px;
+            height:25px;
+            box-sizing: border-box;
+            font-size:19px;
+            }#div13 {
+  position:absolute;
+  left:0px;
+  top:175.0px;
+  width:1280px;
+  height:130.0px;
+  background-color:rgb(np.uint8(242), np.uint8(239), np.uint8(233));
+  }#div14{
+              position:absolute;
+              left:90px;
+              top:59.0px;
+              width:632px;
+              height:44px;
+              background-color:rgb(np.uint8(220), np.uint8(215), np.uint8(209));
+              }#span15{
+            position:absolute;
+            left:0px;
+            top:0px;
+            width:632px;
+            height:44px;
+            box-sizing: border-box;
+            font-size:34px;
+            }#div16 {
+  position:absolute;
+  left:0px;
+  top:305.0px;
+  width:1280px;
+  height:134.0px;
+  background-color:rgb(np.uint8(242), np.uint8(239), np.uint8(233));
+  }#div17{
+              position:absolute;
+              left:82px;
+              top:27.0px;
+              width:687px;
+              height:88px;
+              background-color:rgb(np.uint8(242), np.uint8(239), np.uint8(233));
+              }#p18{
+            position:absolute;
+            left:0px;
+            top:0px;
+            width:687px;
+            height:88px;
+            box-sizing: border-box;
+            font-size:23px;
+            }#div19 {
+  position:absolute;
+  left:0px;
+  top:439.0px;
+  width:1280px;
+  height:107.5px;
+  background-color:rgb(np.uint8(242), np.uint8(239), np.uint8(233));
+  }#div20{
+              position:absolute;
+              left:348px;
+              top:19.0px;
+              width:408px;
+              height:59px;
+              background-color:rgb(np.uint8(255), np.uint8(255), np.uint8(255));
+              }#p21{
+            position:absolute;
+            left:0px;
+            top:16px;
+            width:408px;
+            height:43px;
+            box-sizing: border-box;
+            font-size:16px;
+            }#span22{
+            position:absolute;
+            left:1px;
+            top:0px;
+            width:103px;
+            height:20px;
+            box-sizing: border-box;
+            font-size:15px;
+            }#div23 {
+  position:absolute;
+  left:0px;
+  top:546.5px;
+  width:1280px;
+  height:126.0px;
+  background-color:rgb(np.uint8(242), np.uint8(239), np.uint8(233));
+  }#div24{
+              position:absolute;
+              left:348px;
+              top:29.5px;
+              width:435px;
+              height:60px;
+              background-color:rgb(np.uint8(255), np.uint8(255), np.uint8(255));
+              }#span25{
+            position:absolute;
+            left:0px;
+            top:0px;
+            width:142px;
+            height:19px;
+            box-sizing: border-box;
+            font-size:16px;
+            }#p26{
+            position:absolute;
+            left:5px;
+            top:15px;
+            width:430px;
+            height:45px;
+            box-sizing: border-box;
+            font-size:16px;
+            }#div27 {
+  position:absolute;
+  left:0px;
+  top:672.5px;
+  width:1280px;
+  height:231.5px;
+  background-color:rgb(np.uint8(242), np.uint8(239), np.uint8(233));
+  }#div28{
+              position:absolute;
+              left:327px;
+              top:36.5px;
+              width:456px;
+              height:41px;
+              background-color:rgb(np.uint8(255), np.uint8(255), np.uint8(255));
+              }#span29{
+            position:absolute;
+            left:0px;
+            top:1px;
+            width:456px;
+            height:22px;
+            box-sizing: border-box;
+            font-size:5px;
+            }#p30{
+            position:absolute;
+            left:23px;
+            top:0px;
+            width:428px;
+            height:41px;
+            box-sizing: border-box;
+            font-size:15px;
+            }
